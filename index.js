@@ -103,7 +103,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + 'FN:Mr.Pato\n' // Nama
 + 'ORG:Mr.Pato-Bot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=523317595519:+52 33 1759 5519\n' // Nomor bot
++ 'TEL;type=CELL;type=VOICE;waid=56934840436:+56 9 3484 0436\n' // Nomor bot
 + 'END:VCARD' 
 
 
